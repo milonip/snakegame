@@ -2,6 +2,10 @@
 
 A sleek and modern implementation of the classic Snake game using HTML5 Canvas and JavaScript. Features a beautiful dark theme UI and smooth gameplay.
 
+## Visuals
+
+https://github.com/user-attachments/assets/93fc8b7c-51eb-4fe1-aa67-f28647860adb
+
 ## 🎮 Features
 
 - Modern, dark-themed UI
