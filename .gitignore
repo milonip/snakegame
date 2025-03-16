@@ -1,3 +1,15 @@
-__pycache__/
-*.py[cod]
+# System files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug logs
+*.log
